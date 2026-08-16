@@ -62,6 +62,10 @@ github-repository-analyzer/
 ├── tests/
 │   └── test_analysis.py
 │
+├── images/
+│   ├── analyzer-output.png
+│   └── tests-passed.png
+│
 ├── .env.example
 ├── .gitignore
 └── README.md
