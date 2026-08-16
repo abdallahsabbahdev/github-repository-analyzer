@@ -69,3 +69,12 @@ github-repository-analyzer/
 ├── .env.example
 ├── .gitignore
 └── README.md
+## Screenshots
+
+### Analyzer Output
+
+![GitHub Repository Analyzer Output](images/analyzer-output.png)
+
+### Tests
+
+![Pytest Results](images/tests-passed.png)
